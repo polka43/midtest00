@@ -110,6 +110,18 @@ a:active {
 	text-align: center
 }
 
+.video-container{
+    position: absolute;
+	display: block;
+	top: 40%;
+	right: 40%;
+	bottom: 40%;
+	left: 40%;
+	width: 20%;
+	height: 20%;
+	text-align: center
+}
+
 .navbar {
 	position: relative;
 	padding: 0

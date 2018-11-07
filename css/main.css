@@ -742,6 +742,29 @@ ol ol {
 	padding-right: 5px
 }
 
+
+
+
+@media ( max-width: 1000px) {
+    .videoo{
+        display : none;
+    }
+
+}
+
+@media ( min-width: 500px) {
+.videoo{
+  position: absolute;
+    top: 0%;
+    left : 35%;
+    right : 10%;
+    bottom: 10%;
+    width: 900px;
+}
+
+}
+
+
 dl {
 	margin-top: 0;
 	margin-bottom: 20px
